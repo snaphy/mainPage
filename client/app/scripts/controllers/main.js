@@ -7,11 +7,7 @@
  * # MainCtrl
  * Controller of the comingSoonWebsiteApp
  */
-angular.module('comingSoonWebsiteApp')
+angular.module('mainpage.snaphy')
   .controller('MainCtrl', function () {
-    this.awesomeThings = [
-      'HTML5 Boilerplate',
-      'AngularJS',
-      'Karma'
-    ];
+
   });
